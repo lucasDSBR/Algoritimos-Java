@@ -6,7 +6,7 @@ package algoritimos;
 
 /**
  *
- * @author acerte
+ * @author Lucas da Silva Maciel
  */
 public class Algoritimos {
 
@@ -14,7 +14,7 @@ public class Algoritimos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        bubbleSort item = new bubbleSort();
+        bubbleSort bubble = new bubbleSort();
     }
     
 }
